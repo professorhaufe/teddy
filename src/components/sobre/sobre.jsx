@@ -9,7 +9,7 @@ export default function Sobre() {
   const footer = (
     <div className="flex flex-column align-items-center">
       <Avatar image={profileImage} size="xlarge" shape="circle" />
-      <span className="mt-3">Desenvolvido por Kaya Haufe.</span>
+      <span className="mt-3">Desenvolvido por Kayã Haufe.</span>
 
       <div className="sobre-footer-actions">
         <a href="https://www.linkedin.com/in/kayahaufe" target="_blank" rel="noreferrer">
